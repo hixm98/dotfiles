@@ -1,1 +1,1 @@
-# dotfiles
+# Personal setup
